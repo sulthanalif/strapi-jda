@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_components_managed_bies",
+  "info": {
+    "displayName": "managedBy",
+    "icon": "feather",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "admin": {
+      "displayName": "administrator",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.administrator"
+    }
+  }
+}

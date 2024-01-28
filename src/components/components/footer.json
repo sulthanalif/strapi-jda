@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_components_footers",
+  "info": {
+    "displayName": "footer",
+    "icon": "arrowDown",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "contact": {
+      "displayName": "footerC",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.footer-c"
+    },
+    "mediasocial": {
+      "displayName": "mediasocial",
+      "type": "component",
+      "repeatable": true,
+      "component": "components.mediasocial"
+    }
+  }
+}
